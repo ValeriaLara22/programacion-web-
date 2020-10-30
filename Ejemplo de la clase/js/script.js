@@ -20,7 +20,6 @@ enca2.style.fontFamily='Helvetica';
 add('colores','amarillo');
 add('colores','azul');
 add('frutas','pera');
-add('frutas', 'sandia');
 
 const newButton = document.createElement('button');
 newButton.innerHTML = 'Continuar';
