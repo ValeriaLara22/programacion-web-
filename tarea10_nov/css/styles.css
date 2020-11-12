@@ -1,0 +1,72 @@
+*{
+	
+}
+body{
+	background-image: url("img/coronavirus.jpg");
+}
+
+#tit{
+	font-family: "impact";
+	font-weight: 800;
+	font-size: 20px;
+	text-align: center;
+}
+
+#tit{
+	text-align: center;
+	font-size: 60px;
+	color: #781010;
+	background-color: #EDB1F0;
+	padding: 30px;
+}
+
+
+p, #titulo, ul, div{
+	font-family: "impact";
+	font-weight:400 ;
+	font-size: 15px;
+	text-align: left;
+}
+
+#titulo{
+	text-align: center;
+	font-size: 40px;
+	color: #00FFFB;
+	background-color: #C2F0EF;
+	padding: 30px;
+}
+
+div{
+	text-align: center;
+	background-color: #F0EE84;
+}
+
+h3{
+	font-family: "impact"
+	font-weight:300;
+	font-size:30px;
+	color: #099e16;
+	background-color: #9df2a5;
+	padding: 10px;
+	text-align: center;
+}
+#img{
+	width:90%;
+}
+a{
+	font-family: "impact"
+	font-weight:300;
+	font-size:10px;
+	color: #099E16;
+	background-color: #9DF2A5;
+	padding: 10px;
+}
+
+#texto {
+	margin-top: 15px;
+}
+
+#Navbar{
+	font-size: 20px;
+	font-family: "arial"
+}
