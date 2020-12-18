@@ -1,0 +1,22 @@
+body{
+	margin: 20px;
+	background-color: white;
+}
+*{
+	color: white;
+}
+#barra, #barr{
+	color:  white;
+	background-color:  #FFDD94;
+}
+#titulo{
+	background-color:  #FFDD94;
+}
+#piel, #zonas, #hiidrata, #sol, #labios{
+	background-color: #86E3CE;
+	font-size: 30px;
+	font-family: "Cutie Patatootie";
+	text-align: center;
+	
+}
+

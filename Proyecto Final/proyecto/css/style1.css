@@ -1,0 +1,34 @@
+body{
+	margin: 20px;
+	background-color: white;
+}
+*{
+	color: black;
+	font-size: 20px;
+}
+
+#nos, #mis, #vis{
+	font-style: : "Cutie Patootie";
+}
+#u{
+	font-family: "Broadway";
+	text-align: center;
+}
+#img{
+  
+  margin-bottom: 20px;
+}
+#uno{
+	font-family: serif;
+}
+#dos{
+	font-family: serif;
+	text-align: center;
+}
+#barra, #barr{
+	color: white ;
+	background-color: #FFC872;
+}
+#titulo{
+	background-color: #FFC872;
+}

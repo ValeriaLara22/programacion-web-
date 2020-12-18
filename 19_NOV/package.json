@@ -1,0 +1,13 @@
+{
+  "nombre": "Valeria",
+  "apellido": "Lara",
+  "version": "1.0.0",
+  "description": "ejemplo del uso de modulos de node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Valeria",
+  "license": "ISC"
+}

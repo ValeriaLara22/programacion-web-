@@ -1,0 +1,42 @@
+body{
+	margin: 20px;
+	background-color: white;
+}
+*{
+	color: black;
+	font-family: serif;
+
+}
+a{
+	color: white;
+}
+#titu{
+	
+	bottom: 50px;
+}
+#sub{
+	color: black;
+	text-align: center;
+	margin-top: 4px;
+	font-family:  "Broadway";
+}
+#uno{
+	background-color: black;
+	text-align: center;
+	height: 540px;
+
+}
+#titulo1, #texto1{
+	text-align: center;
+
+}
+#ver1,#ver2,#ver3,#ver4,#ver5,#ver6{
+	margin-bottom:10px;
+	background-color: black;
+	color: white;
+}
+#im_1{
+	top:40px;
+
+}
+
